@@ -1,0 +1,24 @@
+name: Gypsy Hill Jig
+duration: 32
+difficulty: Medium
+set: Longways 3 couples
+tune: reel
+author: Irene Harcourt
+dance:
+
+  A1: Reel of 3 down your own side (8)
+
+  A2: Top couple start a grand chain (8)
+
+  B1: 
+  - length: 4 
+    instruction: Top 2 couples star right, bottom rht
+  - length: 4
+    instruction: Top 2 couples star left, bottom lht
+
+  B2: 
+  - length: 4 
+    instruction: Top couple swing down to the bottom
+  - length: 4
+    instruction: Everyone swings their partner
+

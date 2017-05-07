@@ -1,0 +1,16 @@
+{
+  "name": "ceilidh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.8.3",
+    "wkhtmltopdf": "^0.3.4"
+  }
+}
